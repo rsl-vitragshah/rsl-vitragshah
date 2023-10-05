@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitrag</h1>
 <h3 align="center">A passionate Senior Android Engineer from India</h3>
 
-I am experienced Android Engineer with over 6 years of experience. I have worked on multiple million user apps for clients such as Google, Nest Labs and a few other companies.**
+**I am experienced Android Engineer with over 6 years of experience. I have worked on multiple million user apps for clients such as Google, Nest Labs and a few other companies.**
 
 <h3 align="left">Key Skills:</h3>
 ✅ I excel at translating requirements into robust technical solutions.<br>
